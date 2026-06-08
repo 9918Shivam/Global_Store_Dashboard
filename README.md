@@ -11,7 +11,7 @@ An interactive Power BI dashboard built on the Global Superstore dataset — a m
 
 ## 📸 Dashboard Preview
 
-![Global Store Dashboard](./Screenshot_2026-06-08_160736.png)
+![Global Store Dashboard](./screenshorts/dashboard.png)
 
 ---
 ---
